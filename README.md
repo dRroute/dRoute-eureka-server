@@ -12,7 +12,7 @@ The `dRoute-eureka-server` is a service discovery server for the dRoute project.
 ## Prerequisites
 - Java 17 or higher
 - Spring Boot 3.x
-- Maven 3.8+ or Gradle 7.x+
+- Maven 3.8+ 
 
 ## Getting Started
 1. Clone the repository:
